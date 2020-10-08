@@ -7,7 +7,7 @@ function preload(){
     GameManager.highscores = loadJSON("src/json/highscores.json");
     preloadSOUNDS();
     //LOAD FONT
-    GameManager.settings.font = loadFont('/Q3-Spacefighter/Assets/Fonts/AlienWars-3V3M.ttf');
+    GameManager.settings.font = loadFont('/GP_PinkGames/Q3-Spacefighter/Assets/Fonts/AlienWars-3V3M.ttf');
 }
 
 function setup(){
