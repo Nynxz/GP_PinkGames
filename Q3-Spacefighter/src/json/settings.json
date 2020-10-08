@@ -1,0 +1,10 @@
+{
+    "globalSettings": {
+        "FPS": 60,
+        "canvasHeight": 1000,
+        "canvasWidth" : 1200,
+        "sidebarWidth": 500,
+        "music" : true
+    },
+    "debug": false
+}
