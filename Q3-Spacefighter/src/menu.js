@@ -500,7 +500,7 @@ function drawGameOver(){
 
 //Function to Start Video in Main Menu
 function startMainVideo(){
-    GameManager.video = createVideo('/GP_PinkGames/Q3-Spacefighter/Assets/spinngvideo.mp4');
+    GameManager.video = createVideo('/p5-SpaceFighter/Q3-Spacefighter/Assets/spinngvideo.mp4');
     GameManager.video.position(0, 600);
     GameManager.video.size(600, AUTO);
     GameManager.video.volume(0);
