@@ -7,7 +7,7 @@
                 "range": 500,
                 "cooldown": 15,
                 "force": 10,
-                "img": "/GP_PinkGames/Q3-Spacefighter/Assets/bullets/redbeam.png"
+                "img": "/p5-SpaceFighter/Q3-Spacefighter/Assets/bullets/redbeam.png"
             }
         },
         "Lazer": {
@@ -17,7 +17,7 @@
                 "range": 75,
                 "cooldown": 30,
                 "force": 5,
-                "img": "/GP_PinkGames/Q3-Spacefighter/Assets/bullets/redbeam.png"
+                "img": "/p5-SpaceFighter/Q3-Spacefighter/Assets/bullets/redbeam.png"
             }
         }
     }
